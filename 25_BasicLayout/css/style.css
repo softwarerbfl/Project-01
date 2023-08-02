@@ -1,0 +1,26 @@
+header{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0 0 25px 0;
+}
+
+main{
+    background-color: darkkhaki;
+    width: 600px;
+    padding: 20px;
+    border: solid red 5px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+footer{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 25px 0 0 0;
+}
