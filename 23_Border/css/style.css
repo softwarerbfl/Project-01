@@ -1,0 +1,25 @@
+body {
+    background: #333;
+    color: white;
+}
+
+header {
+    width: 100px;
+    
+    border-color: yellow;
+    border-width: 3px;
+    border-style: solid;
+
+    padding: 20px;
+
+    margin: 20px;
+
+    border-color: yellow;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+main{
+    padding: 20px;
+    border: solid white 20px;
+}
